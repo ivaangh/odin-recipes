@@ -1,0 +1,58 @@
+/* styles.css */
+
+#h1-landpage {
+    background-color: #22d2df;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Courier New", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    background-color: #f0a662;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Courier New", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    background-color: #f0bf9271;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Courier New", Helvetica, Arial, sans-serif;
+}
+
+ul a,
+a {
+    color:cornflowerblue;
+}
+
+ul a {
+    font-size: 17px;
+    font-weight: 350;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    text-align: justify;
+    font-size: 17px;
+    font-family: "Times New Roman", Helvetica, Arial, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300;
+}
+
+ol li,
+.ul-style {
+    font-size: 19px;
+    font-weight: bold;
+    color:rgb(207, 82, 124);
+}
+
